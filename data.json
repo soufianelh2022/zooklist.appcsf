@@ -1,0 +1,219 @@
+{
+    "ads": {
+        "adNetwork": "yandex",
+        "yandex_interstitial": "demo-interstitial-yandex",
+        "yandex_rewarded": "demo-rewarded-yandex",
+        "yandex_banner": "demo-banner-yandex",
+        "yandex_native": "demo-native-app-yandex",
+        "applovin_banner": "ff12bd8a55ff06bf",
+        "applovin_native": "3ad3bbd1e3c1e075",
+        "applovin_rewarded": "7ac3f6ee667a6264",
+        "applovin_interstitial": "98f6a586ed642919"
+    },
+    "flag": "https://flagsapi.com/US/flat/64.png",
+    "language": "English",
+    "featuredApp": {
+        "appIcon": "https://play-lh.googleusercontent.com/9WmApJFHx_vPc98f_RbPKWbioUEmsIaJ7R00wekRxKFhLQIsG6JYhoNT8R54g_irVA=w240-h480-rw",
+        "appLink": "https://play.google.com/store/apps/details?id=com.vapp.vmanager",
+        "appSize": "12mb",
+        "appCover": "https://i.imgur.com/N0OjzuV.png",
+        "appTitle": "V Manager",
+        "isActive": true,
+        "appRating": "5.0",
+        "appDescription": "V Manager is a tool where you can download and update YV. A tool intended to eliminate the tedious steps required to install YV."
+    },
+    "moreApps": [
+        {
+            "image": "https://picsum.photos/300/200?random=23",
+            "title": "Weather Pro",
+            "appLink": "https://play.google.com/store/apps/weather"
+        },
+        {
+            "image": "https://picsum.photos/300/200?random=24",
+            "title": "Fitness Tracker",
+            "appLink": "https://play.google.com/store/apps/fitness"
+        },
+        {
+            "image": "https://picsum.photos/300/200?random=25",
+            "title": "Recipe Book",
+            "appLink": "https://play.google.com/store/apps/recipe"
+        }
+    ],
+    "categories": [
+        {
+            "items": [
+                {
+                    "size": "2.8 MB",
+                    "image": "https://picsum.photos/300/200?random=2",
+                    "title": "Adventure Quest",
+                    "lastUpdated": "2024-03-15",
+                    "isrecommended": true
+                },
+                {
+                    "size": "1.5 MB",
+                    "image": "https://picsum.photos/300/200?random=3",
+                    "title": "Puzzle Master",
+                    "lastUpdated": "2024-03-10",
+                    "isrecommended": false
+                },
+                {
+                    "size": "4.2 MB",
+                    "image": "https://picsum.photos/300/200?random=4",
+                    "title": "Racing Stars",
+                    "lastUpdated": "2024-03-20",
+                    "isrecommended": true
+                }
+            ],
+            "categoryImage": "https://picsum.photos/300/200?random=1",
+            "categoryTitle": "Games"
+        },
+        {
+            "items": [
+                {
+                    "size": "1.2 MB",
+                    "image": "https://picsum.photos/300/200?random=6",
+                    "title": "File Manager Pro",
+                    "lastUpdated": "2024-03-18",
+                    "isrecommended": true
+                },
+                {
+                    "size": "0.8 MB",
+                    "image": "https://picsum.photos/300/200?random=7",
+                    "title": "Battery Saver",
+                    "lastUpdated": "2024-03-12",
+                    "isrecommended": false
+                },
+                {
+                    "size": "1.0 MB",
+                    "image": "https://picsum.photos/300/200?random=8",
+                    "title": "Calculator Plus",
+                    "lastUpdated": "2024-03-22",
+                    "isrecommended": true
+                }
+            ],
+            "categoryImage": "https://picsum.photos/300/200?random=5",
+            "categoryTitle": "Utilities"
+        },
+        {
+            "items": [
+                {
+                    "size": "3.5 MB",
+                    "image": "https://picsum.photos/300/200?random=10",
+                    "title": "Music Player",
+                    "lastUpdated": "2024-03-25",
+                    "isrecommended": true
+                },
+                {
+                    "size": "5.2 MB",
+                    "image": "https://picsum.photos/300/200?random=11",
+                    "title": "Video Editor",
+                    "lastUpdated": "2024-03-19",
+                    "isrecommended": false
+                },
+                {
+                    "size": "2.1 MB",
+                    "image": "https://picsum.photos/300/200?random=12",
+                    "title": "Photo Gallery",
+                    "lastUpdated": "2024-03-21",
+                    "isrecommended": true
+                }
+            ],
+            "categoryImage": "https://picsum.photos/300/200?random=9",
+            "categoryTitle": "Entertainment"
+        }
+    ],
+    "youtubeVideos": [
+        {
+            "image": "https://picsum.photos/300/200?random=13",
+            "title": "Getting Started Tutorial",
+            "videoLink": "https://youtube.com/watch?v=abc123"
+        },
+        {
+            "image": "https://picsum.photos/300/200?random=14",
+            "title": "Advanced Features Guide",
+            "videoLink": "https://youtube.com/watch?v=def456"
+        },
+        {
+            "image": "https://picsum.photos/300/200?random=15",
+            "title": "Tips and Tricks",
+            "videoLink": "https://youtube.com/watch?v=ghi789"
+        }
+    ],
+    "sharedStrings": {
+        "ok_btn": "Ok",
+        "bonus_5": "+ Bonus 5 coins",
+        "no_text": "No",
+        "nothing": "Nothing!!",
+        "bonus_10": "+ Bonus 10 coins",
+        "bonus_20": "+ Bonus 20 coins",
+        "bonus_50": "+ Bonus 50 coins",
+        "done_btn": "Done",
+        "new_text": "New",
+        "next_btn": "Next",
+        "skip_btn": "Skip",
+        "the_best": "The best we can get",
+        "yes_text": "Yes",
+        "daily_sub": "You have received 1 free coin",
+        "home_text": "Home",
+        "menu_text": "Menu",
+        "ready_sub": "Let's start the journey now.",
+        "size_text": "Size:",
+        "cancel_btn": "Cancel",
+        "coins_text": "coins",
+        "delete_btn": "DELETE",
+        "empty_list": "The list is empty",
+        "ad_coin_sub": "Watch an ad to get 1 coin",
+        "delete_skin": "Delete skin",
+        "drawer_rate": "Rate Us",
+        "install_btn": "Install",
+        "ready_title": "Are you ready?",
+        "search_hint": "Search",
+        "welcome_sub": "Amazing Android app with cool features.",
+        "continue_btn": "Continue",
+        "download_btn": "Download",
+        "drawer_share": "Send Download Link to Friends",
+        "exit_message": "Do you want to exit app?",
+        "rate_app_btn": "Rate app",
+        "see_all_text": "See all",
+        "daily_message": "Every day you will receive 1 free coin the first time you visit this screen. In addition, you can earn more coins here.",
+        "send_feedback": "Send us a feedback",
+        "settings_text": "Settings",
+        "watch_ad_text": "Watch ad",
+        "welcome_title": "Welcome to Skin Tool ML",
+        "chooseLanguage": "Choose language",
+        "daily_congrats": "Congratulations!",
+        "downloads_left": "download left",
+        "drawer_account": "Account: Basic",
+        "drawer_privacy": "Privacy Policy",
+        "favorites_text": "Favorites",
+        "pack_skin_list": "Pack Skin List",
+        "save_to_ml_btn": "SAVE TO ML",
+        "save_to_ml_msg": "Use the SAVE TO ML button to start the installation process. Please skip this step if you have already installed it",
+        "categories_text": "Categories",
+        "delete_skin_sub": "Are you sure you want to delete this skin?",
+        "dont_show_again": "Don't show this app again",
+        "downloaded_text": "Downloaded",
+        "drawer_language": "Language: English",
+        "get_started_btn": "Get started",
+        "more_apps_title": "More Apps",
+        "drawer_more_apps": "More Apps",
+        "get_free_coin_ad": "Get 1 free coin",
+        "save_instruction": "Use the button below to start the installation process. Please skip this step if you have already installed it.",
+        "success_download": "Download successful",
+        "download_received": "You have received 1 more download",
+        "last_updated_text": "Last updated:",
+        "recommended_title": "Recommended for you",
+        "get_more_downloads": "Get more downloads",
+        "installation_error": "Installation error",
+        "the_best_we_can_get": "The best we can get",
+        "download_success_msg": "We are working hard for better user experience, if you love us, please rate us 5 stars.",
+        "installation_success": "Installation success",
+        "success_download_sub": "We are working hard for better user experience, if you love us, please rate 5 stars",
+        "download_success_title": "Download successful",
+        "get_more_downloads_sub": "Watch an ad to get 1 more download",
+        "installation_error_msg": "ML is not installed on your device.",
+        "installation_error_sub": "ML is not installed on your device.",
+        "installation_error_title": "Installation error",
+        "installation_success_sub": "The Skin was installed successfully"
+    }
+}
