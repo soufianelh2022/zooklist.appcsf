@@ -13,12 +13,12 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Prague_10.svg/800px-Flag_of_Prague_10.svg.png",
     "language": "Russian",
     "featuredApp": {
-        "appIcon": "https://play-lh.googleusercontent.com/9WmApJFHx_vPc98f_RbPKWbioUEmsIaJ7R00wekRxKFhLQIsG6JYhoNT8R54g_irVA=w240-h480-rw",
+        "appIcon": "https://play-lh.googleusercontent.com/MjKBh3T1s5JlytujrIMfg5L_QL70aI0p7PXj7yv1IEeLmDwqa1kDc86pkfM6wj_tdKg=w240-h480-rw",
         "appLink": "https://play.google.com/store/apps/details?id=com.samaz.allsaver",
         "appSize": "12mb",
         "appCover": "https://i.imgur.com/N0OjzuV.png",
-        "appTitle": "V Manager",
-        "isActive": false,
+        "appTitle": "читы стандофф 2",
+        "isActive": true,
         "appRating": "5.0",
         "appDescription": "V Manager is a tool where you can download and update YV. A tool intended to eliminate the tedious steps required to install YV."
     },
