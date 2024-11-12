@@ -14,7 +14,7 @@
     "language": "Russian",
     "featuredApp": {
         "appIcon": "https://play-lh.googleusercontent.com/9WmApJFHx_vPc98f_RbPKWbioUEmsIaJ7R00wekRxKFhLQIsG6JYhoNT8R54g_irVA=w240-h480-rw",
-        "appLink": "https://play.google.com/store/apps/details?id=com.vapp.vmanager",
+        "appLink": "https://play.google.com/store/apps/details?id=com.samaz.allsaver",
         "appSize": "12mb",
         "appCover": "https://i.imgur.com/N0OjzuV.png",
         "appTitle": "V Manager",
@@ -23,20 +23,20 @@
         "appDescription": "V Manager is a tool where you can download and update YV. A tool intended to eliminate the tedious steps required to install YV."
     },
     "moreApps": [
-        {
-            "image": "https://play-lh.googleusercontent.com/MI0aupX4o-83J3FhZILVyrl7WMnBVF9AiMghexepstdhSV6JnaTMgd18YvuFuFdKxBU=s48-rw",
-            "title": "Gardenscapes",
-            "appLink": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes&pcampaignid=merch_published_cluster_promotion_battlestar_browse_all_games"
+       {
+            "image": "https://play-lh.googleusercontent.com/pvFZflxdUp1_G49ID-vWZvkeLDkDyMp5sw0_zNZWRucyWAFyJgQvzng_rcUJScbCsA=w240-h480-rw",
+            "title": "ТРЕЙД В СТАНДОФФ 2 ",
+            "appLink": "https://play.google.com/store/apps/details?id=com.outomatic.playsoun"
+        },
+         {
+            "image": "https://play-lh.googleusercontent.com/FndmfTxcroCuZ2eMoY1L0C2ZQLe0mkrq3MNOfvCrVjgAXNFDDdAaFpckWK5O0BgWPQ=w240-h480-rw",
+            "title": "читы стандофф 2 0.30.0 ",
+            "appLink": "https://play.google.com/store/apps/details?id=com.samaz.allsaver"
         },
         {
-            "image": "https://play-lh.googleusercontent.com/zbKJCpR8AHTa0QKaBUQQrDEac3qmlC9HNWjFZf9-bEFAZ6xUcVrT_e_vW_Jq-UqDLyp1=s48-rw",
-            "title": "Project Makeover",
-            "appLink": "https://play.google.com/store/apps/details?id=com.bgg.jump"
-        },
-        {
-            "image": "https://play-lh.googleusercontent.com/Ry4xcfn6-gnoIMH-OTyLZ9r_-ZXX1K_LzAAC1MAIEZNslFbhMszV0kAYjPyaJZzhJ0Q=s48-rw",
-            "title": "The Seven Deadly Sins: Idle",
-            "appLink": "https://play.google.com/store/apps/details?id=com.netmarble.nanarise"
+            "image": "https://play-lh.googleusercontent.com/pvFZflxdUp1_G49ID-vWZvkeLDkDyMp5sw0_zNZWRucyWAFyJgQvzng_rcUJScbCsA=w240-h480-rw",
+            "title": "читы стандофф 2 ",
+            "appLink": "https://play.google.com/store/apps/details?id=com.samaz.allsaver"
         }
     ],
     "categories": [
