@@ -1,10 +1,10 @@
 {
-    "ads": {
+     "ads": {
         "adNetwork": "yandex",
-        "yandex_interstitial": "R-M-12811677-3",
-        "yandex_rewarded": "R-M-12811677-4",
-        "yandex_banner": "R-M-12811677-1",
-        "yandex_native": "R-M-12811677-2",
+        "yandex_interstitial": "demo-interstitial-yandex",
+        "yandex_rewarded": "demo-rewarded-yandex",
+        "yandex_banner": "demo-banner-yandex",
+        "yandex_native": "demo-native-app-yandex",
         "applovin_banner": "ff12bd8a55ff06bf",
         "applovin_native": "3ad3bbd1e3c1e075",
         "applovin_rewarded": "7ac3f6ee667a6264",
