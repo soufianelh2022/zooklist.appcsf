@@ -14,7 +14,7 @@
     "language": "Russian",
     "featuredApp": {
         "appIcon": "https://play-lh.googleusercontent.com/MjKBh3T1s5JlytujrIMfg5L_QL70aI0p7PXj7yv1IEeLmDwqa1kDc86pkfM6wj_tdKg=w240-h480-rw",
-        "appLink": "https://play.google.com/store/apps/details?id=com.samaz.allsaver",
+        "appLink": "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2",
         "appSize": "12mb",
         "appCover": "Лучшие читы стандофф 2 в google play",
         "appTitle": "читы стандофф 2",
@@ -25,17 +25,17 @@
     "moreApps": [
        {
             "image": "https://play-lh.googleusercontent.com/pvFZflxdUp1_G49ID-vWZvkeLDkDyMp5sw0_zNZWRucyWAFyJgQvzng_rcUJScbCsA=w240-h480-rw",
-            "title": "ТРЕЙД В СТАНДОФФ 2 ",
+            "title": "انتقام السلاطين",
             "appLink": "https://play.google.com/store/apps/details?id=com.outomatic.playsoun"
         },
          {
             "image": "https://play-lh.googleusercontent.com/FndmfTxcroCuZ2eMoY1L0C2ZQLe0mkrq3MNOfvCrVjgAXNFDDdAaFpckWK5O0BgWPQ=w240-h480-rw",
-            "title": "читы стандофф 2 0.30.0 ",
+            "title": "Rage of Kings - Kings Landing",
             "appLink": "https://play.google.com/store/apps/details?id=com.samaz.allsaver"
         },
         {
             "image": "https://play-lh.googleusercontent.com/pvFZflxdUp1_G49ID-vWZvkeLDkDyMp5sw0_zNZWRucyWAFyJgQvzng_rcUJScbCsA=w240-h480-rw",
-            "title": "читы стандофф 2 ",
+            "title": "Rage of Kings  ",
             "appLink": "https://play.google.com/store/apps/details?id=com.samaz.allsaver"
         }
     ],
@@ -212,8 +212,8 @@
     "success_download_sub": "Мы стараемся улучшить ваш опыт. Если вам нравится наше приложение, пожалуйста, оцените нас на 5 звезд.",
     "download_success_title": "Загрузка успешна",
     "get_more_downloads_sub": "Смотрите рекламу, чтобы получить еще одну загрузку",
-    "installation_error_msg": "ML не установлен на вашем устройстве.",
-    "installation_error_sub": "ML не установлен на вашем устройстве.",
+    "installation_error_msg": "голда для стандофф 2  не установлен на вашем устройстве.",
+    "installation_error_sub": "голда для стандофф 2  не установлен на вашем устройстве.",
     "installation_error_title": "Ошибка установки",
     "installation_success_sub": "Скин успешно установлен"
 
